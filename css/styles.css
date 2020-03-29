@@ -1,0 +1,31 @@
+body {
+    
+    background-color: #fcf7bb;
+}
+
+
+
+.az{
+    width: 200px;
+    height: 200px;
+}
+hr{ 
+    border-style: none;
+    border-top-style: dotted;
+    border-color: grey;
+    border-width: 5px;
+    width: 5%
+
+}
+h1 {
+    
+    color: #d63447;
+}
+h2{
+    
+    color:#d63447 ;
+}
+
+
+
+
